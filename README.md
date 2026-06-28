@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 📸 Project Screenshots
 
-# Run and deploy your AI Studio app
+## Home Page
+![Home Page](./Screenshot/Screenshot%202026-06-28%20223527.png)
 
-This contains everything you need to run your app locally.
+## About Brand
+![About Brand](./Screenshot/Screenshot%202026-06-28%20223551.png)
 
-View your app in AI Studio: https://ai.studio/apps/e8e067cd-d138-4e2b-9fd8-ba604450ecf2
+## Menu
+![Menu](./Screenshot/Screenshot%202026-06-28%20223608.png)
 
-## Run Locally
+## Product Page
+![Product Page](./Screenshot/Screenshot%202026-06-28%20223629.png)
 
-**Prerequisites:**  Node.js
+## About Us
+![About us](./Screenshot/Screenshot%202026-06-28%20223653.png)
 
+ Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Modern and premium UI/UX
+- Smooth scrolling animations
+- Fully responsive design
+- Interactive transitions
+- Creative branding for small businesses
+- AI-assisted design workflow
+- Optimized for performance
+- Portfolio-ready presentation
