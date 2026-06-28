@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Anton", sans-serif;
+  --font-sans: "Inter", sans-serif;
+  --font-heading: "Space Grotesk", sans-serif;
+}
+
+/* Custom scroll bar behavior for a smooth presentation look */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #9e1218;
+}
+::-webkit-scrollbar-thumb {
+  background: #ffd136;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #f7ce46;
+}
+
+.line-accent {
+  background: linear-gradient(90deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0.4) 50%, rgba(255,255,255,0.05) 100%);
+}
+
+.writing-mode-vertical {
+  writing-mode: vertical-rl;
+}
+

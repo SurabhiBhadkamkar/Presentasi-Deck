@@ -1,0 +1,6 @@
+{
+  "name": "Fast Food Pitch Deck",
+  "description": "An interactive, beautifully designed fast-food pitch deck with a seamless scrolling burger transition animation between slides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
